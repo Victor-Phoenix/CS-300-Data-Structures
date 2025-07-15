@@ -47,10 +47,6 @@ Before this project, I would often write **code that worked but was not structur
 3. **Implement error handling** to make the program more adaptable to real-world use cases.
 4. **Think ahead about scalability**, ensuring that if more courses were added, the system would still perform efficiently.
 
----
-
-## 🔗 **GitHub Repository**
-[Click Here to View My CS-300 Portfolio](YOUR_GITHUB_REPO_LINK_HERE)
 
 ---
 
